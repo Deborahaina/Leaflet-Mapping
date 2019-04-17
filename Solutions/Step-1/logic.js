@@ -76,7 +76,7 @@ function createMap(quakes){
     id: "mapbox.dark",
     accessToken: apiKey
 });
-  var tech_plates_json = "PB2002_boundaries.json"
+  var tech_plates_json = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
    d3.json(tech_plates_json,function(data){
     var tech_plates = L.geoJSON(data, {
       // onEachFeature: onEachFeature
