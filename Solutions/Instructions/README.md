@@ -58,7 +58,7 @@ In this step we are going to..
 
 Your final product will be assessed on the following metrics:
 
-* Completion of assigned tasks (part 1 has been done for you)
+* Completion of assigned tasks 
 
 * Visual appearance
 
