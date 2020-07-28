@@ -54,18 +54,4 @@ In this step we are going to..
 
 - - -
 
-### Assessment
 
-Your final product will be assessed on the following metrics:
-
-* Completion of assigned tasks (part 1 has been done for you)
-
-* Visual appearance
-
-* Professionalism
-
-**Good luck!**
-
-## Copyright
-
-Data Boot Camp (C) 2018. All Rights Reserved.
